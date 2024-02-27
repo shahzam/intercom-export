@@ -1,7 +1,7 @@
 {
 	"name": "intercom-export",
 	"version": "0.0.1",
-	"private": true,
+	"private": false,
 	"description": "Intercom Export",
 	"dependencies": {
 		"node-fetch": "2.6.6"
